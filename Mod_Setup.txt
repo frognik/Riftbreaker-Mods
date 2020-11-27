@@ -1,0 +1,13 @@
+MegaPack_v1.zip is most mods combined into one pack.
+Place MegaPack_v1.zip in 'The Riftbreaker Prologue\packs' folder.
+If you haven't done so before you will need to open 'The Riftbreaker Prologue\conf\initial_config_win.cfg' in a text editor.
+You will need to add the following to the end of the file:
+
+set demo_mode 0
+set g_enable_tutorials "0"
+set enable_biom_select "1"
+
+Note: if set demo_mode 1 is already there you can just change it to set demo_mode 0
+
+If you want to select which mods to install remove MegaPack_v1.zip and add any of the zips you want to use in 'The Riftbreaker Prologue\packs' folder.
+Descriptions for the mods can be found in Mod_Details.txt

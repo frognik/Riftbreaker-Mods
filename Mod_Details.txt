@@ -1,0 +1,87 @@
+fav_v3_win_data.zip
+Frankenstein Alpha Version created by Flaynder & ElementShadow. (Choose 'Jungle Biome' to play)
+This mod makes it possible to play survival mode on the tutorial map.
+
+arena_v4_win_data.zip
+1x1 Battle Arena created by frognik. (Choose 'Desert Biome' to play)
+Choose custom game - Wave Duration: 15 seconds & Warmup Duration: 15 seconds.
+
+rngebus_v1_win_data.zip
+RNGebus - Random Jungle Survival created by frognik. (Choose 'Acid Biome' to play)
+A flat survival map with random props, mobs & ores generated every new game.
+
+brutal_v1_win_data.zip
+5 Hour Brutal created by akee. (Choose '5 Hour Brutal' => 'Magma Biome' to play)
+A 5 hour long brutal mission with tweaks, can be played on a modified benchmark or other maps.
+
+map_r1_fav_win_data.zip
+Mega Base map created by frognik. (Requires fav_v3_win_data.zip)
+Modified tutorial map with boulders removed and a forrest added.
+
+map_bmi_fav_win_data.zip
+Benchmark Intense Map created by akee.  (Requires fav_v3_win_data.zip)
+Lets you play the map used for benchmarking the game in survival.
+
+rngebus_zopenmap.zip
+Open Map for RNGebus created by frognik.  (Requires rngebus_v1_win_data.zip)
+A more open map for RNGebus that generates less boulders and other larger objects.
+
+boss_v2_win_data.zip
+Boss Spawns v2 created by frognik. (Requires fav_v3_win_data.zip or arena_v4_win_data.zip)
+2x size, 2x damage, 5x health and 2x loot chance and quantity, use with either fav or arena.
+
+res_win_data.zip
+Resource Drones created by frognik.
+Crystal Collector drones also collect Carbonium, Ironium & Uranium.
+
+ERSE_1.0.zip
+Energy Rebalance & Storage Enhancer created by ShadowAngel & ElementShadow.
+Makes changes into energy and storage balance, read changelog inside zip for full details.
+
+mbenaa.zip
+Make Building Energy Nodes Awesome Again created by Vandragorax.
+Energy Nodes can be built by clicking-and-dragging.
+
+mbwaa.zip
+Make Building Walls Awesome Again created by Vandragorax, crash fix by frognik.
+Walls can be built by clicking-and-dragging.
+
+bio_win_data.zip
+Biomass Composter Re-Enabled created by Fatmice.
+Re-enables the Bio Composter which produces flammable gas from plant biomass and water.
+
+lab_win_data.zip
+Laboratory Repurposed created by frognik.
+Generates small amounts of all resources from large amounts of water and power.
+
+ps_win_data.zip
+Planetary Scanner Repurposed created by frognik.
+Just like the Short Range Radar but 10x the range and cost.
+
+electro_walls_v0_1.zip
+Electro Walls created by ShadowAngel.
+Walls will distribute energy in 1 tile radius.
+
+electro_pipes_v0_1.zip
+Electro Pipes created by ShadowAngel.
+Pipes will distribute energy in 1 tile radius.
+
+pic_win_data.zip
+Increased Pickup Range created by frognik.
+5x loot pick up range, will only work with new games / saves created since enabling the mod.
+
+ion_win_data.zip
+Ionizer Reforged created by frognik.
+Ionizer uses Crude Uranium instead of Titanium to produce Supercharged Plasma.
+
+arena_v3_win_data.zip
+1x1 Battle Arena (old) created by frognik. (use with RBMM v0.4 only)
+Choose custom game - Wave Duration: 15 seconds & Warmup Duration: 15 seconds.
+
+fav_win_data.zip
+Frankenstein Alpha Version 2.0 (old) by Flaynder & ElementShadow. (use with RBMM v0.4 only)
+This mod makes it possible to play survival mode on the tutorial map.
+
+boss_v1_win_data.zip
+Boss Spawns (old) created by frognik. (Old 'too hard' version)
+3x size, 3x damage and 10x health compared to regular units, use with either fav or arena.
